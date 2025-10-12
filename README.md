@@ -5,4 +5,3 @@ Each file includes the problem link, approach, and clean code implementation.
 
 ---
 
-## 📘 Structure
