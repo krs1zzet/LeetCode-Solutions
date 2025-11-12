@@ -1,6 +1,5 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        // Negatif sayılar palindrome değildir
         if (x < 0) {
             return false;
         }
