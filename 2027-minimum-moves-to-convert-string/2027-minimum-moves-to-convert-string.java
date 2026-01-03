@@ -1,18 +1,18 @@
 class Solution {
     public int minimumMoves(String s) {
-        int moves = 0;
-        int i = 0;
+        int move = 0;
         int n = s.length();
+        int i =0;
 
-        while (i < n) {
-            if (s.charAt(i) == 'X') {
-                moves++;
-                i += 3; 
-            } else {
+        while(i<n){
+            if(s.charAt(i) == 'X'){
+                move++;
+                i+=3;
+            }
+            else{
                 i++;
             }
         }
-
-        return moves;
+        return move;
     }
 }
