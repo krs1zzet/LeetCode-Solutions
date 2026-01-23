@@ -5,6 +5,7 @@ class Solution {
     int left = 0;
     int count = 0;
     Arrays.sort(nums);
+    
     while (left < right){
         if(nums[left] + nums[right] == k){
             count++;
