@@ -12,8 +12,10 @@ Each file includes the problem link, approach, and clean code implementation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 <!---LeetCode Topics End-->
