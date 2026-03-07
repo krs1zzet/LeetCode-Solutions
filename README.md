@@ -13,9 +13,18 @@ Each file includes the problem link, approach, and clean code implementation.
 | ------- | ------- |
 | [0027-remove-element](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+| [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 <!---LeetCode Topics End-->
