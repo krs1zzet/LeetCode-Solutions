@@ -14,6 +14,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | [0027-remove-element](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0031-next-permutation/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+| [1701-average-waiting-time](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,8 @@ Each file includes the problem link, approach, and clean code implementation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1701-average-waiting-time](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 <!---LeetCode Topics End-->
