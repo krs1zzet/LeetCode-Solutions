@@ -16,6 +16,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | [0287-find-the-duplicate-number](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1701-average-waiting-time](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
+| [1800-maximum-ascending-subarray-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2043-simple-bank-system](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 | [3522-calculate-score-after-performing-instructions](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
