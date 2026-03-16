@@ -16,6 +16,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | [0287-find-the-duplicate-number](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1701-average-waiting-time](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
+| [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
+| [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +44,16 @@ Each file includes the problem link, approach, and clean code implementation.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 <!---LeetCode Topics End-->
