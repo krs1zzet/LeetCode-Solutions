@@ -1,20 +1,20 @@
 class Solution {
     public long calculateScore(String[] instructions, int[] values) {
-
-        Set<Integer> indexes = new HashSet<>();
-        int currIndex =0;
         int n = values.length;
+        boolean[] visited = new boolean[n];
+
+        int currIndex =0;
         long score =0;
 
 
-        while(!indexes.contains(currIndex )&& (currIndex < n )&& (currIndex >=0)){
-            indexes.add(currIndex);
+        while((currIndex < n )&& (currIndex >=0) && !visited[currIndex] ){
+            visited[currIndex] = true;
             if(instructions[currIndex].equals("jump") ){
                     currIndex = currIndex+values[currIndex];
                 }
             else{
-                    score+=values[currIndex];
-                    currIndex = currIndex+1;
+                score+=values[currIndex];
+                currIndex = currIndex+1;
             }
             
         }
