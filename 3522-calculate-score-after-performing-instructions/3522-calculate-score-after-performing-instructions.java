@@ -9,7 +9,7 @@ class Solution {
 
         while((currIndex < n )&& (currIndex >=0) && !visited[currIndex] ){
             visited[currIndex] = true;
-            if(instructions[currIndex].equals("jump") ){
+            if(instructions[currIndex].charAt(0) == 'j'){
                     currIndex = currIndex+values[currIndex];
                 }
             else{
