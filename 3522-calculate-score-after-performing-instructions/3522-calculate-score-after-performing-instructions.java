@@ -12,10 +12,11 @@ class Solution {
             if(instructions[currIndex].equals("jump") ){
                     currIndex = currIndex+values[currIndex];
                 }
-            else if(instructions[currIndex].equals("add") ){
+            else{
                     score+=values[currIndex];
                     currIndex = currIndex+1;
-                }
+            }
+            
         }
         return score;
         
