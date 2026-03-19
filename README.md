@@ -18,6 +18,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | [1701-average-waiting-time](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2043-simple-bank-system](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
 | [3522-calculate-score-after-performing-instructions](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
@@ -64,9 +65,18 @@ Each file includes the problem link, approach, and clean code implementation.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 <!---LeetCode Topics End-->
