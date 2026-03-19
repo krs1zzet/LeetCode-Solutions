@@ -17,6 +17,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | [1357-apply-discount-every-n-orders](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1357-apply-discount-every-n-orders/) | Medium |
 | [1701-average-waiting-time](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1701-average-waiting-time/) | Medium |
 | [1800-maximum-ascending-subarray-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2043-simple-bank-system](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2043-simple-bank-system/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
@@ -78,5 +79,6 @@ Each file includes the problem link, approach, and clean code implementation.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 <!---LeetCode Topics End-->
