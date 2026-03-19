@@ -2,17 +2,26 @@ class Solution {
     public long numberOfWeeks(int[] milestones) {
         int n = milestones.length;
         long val = 0;
+        int max = milestones[0];
+        int maxIndex =0;
 
-        Arrays.sort(milestones);
-        for(int i = 0 ; i < n-1 ; i++){
+        for(int i = 0 ; i < n ; i++){
+            if(max < milestones[i]){
+                max = milestones[i];
+                maxIndex =i;
+            }            
+        }
+        milestones[maxIndex] =0;
+
+        for(int i = 0 ; i < n ; i++){
              val += milestones[i];
         }      
 
-        if(milestones[n-1] > val){
+        if(max > val){
             return  (val+val+1);
         }
         else{
-            return (val + milestones[n-1]);
+            return (val + max);
         }
     }
 }
