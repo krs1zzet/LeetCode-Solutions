@@ -22,6 +22,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2744-find-maximum-number-of-string-pairs/) | Easy |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 | [3522-calculate-score-after-performing-instructions](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3522-calculate-score-after-performing-instructions/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Each file includes the problem link, approach, and clean code implementation.
 | ------- | ------- |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [2512-reward-top-k-students](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2512-reward-top-k-students/) | Medium |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +83,5 @@ Each file includes the problem link, approach, and clean code implementation.
 | ------- | ------- |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
+| [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
 <!---LeetCode Topics End-->
