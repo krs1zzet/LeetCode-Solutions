@@ -77,6 +77,7 @@ Each file includes the problem link, approach, and clean code implementation.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -84,4 +85,8 @@ Each file includes the problem link, approach, and clean code implementation.
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/1953-maximum-number-of-weeks-for-which-you-can-work/) | Medium |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/2195-append-k-integers-with-minimal-sum/) | Medium |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/3397-maximum-number-of-distinct-elements-after-operations/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/krs1zzet/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
